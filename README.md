@@ -1,8 +1,4 @@
 ## Valdir Júnior Cordeiro Rocha
-Informações Pessoais
-Brasileiro, solteiro, 25 anos.
-Habilitação Categoria AB
-(38) 91671282
 
 E-mail: vjcordeiror@gmail.com
 
@@ -42,16 +38,16 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK, UFVJM, Bra
 * Diretoria de Tecnologia da Informação da UFVJM. (Setembro/2012 até Agosto/2014) 
 Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 20h 
 
-Funções: Manutenção e desenvolvimento de novas funcionalidades no Sistema Integrado de Gestão Acadêmica da Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM.
+	- Funções: Manutenção e desenvolvimento de novas funcionalidades no Sistema Integrado de Gestão Acadêmica da Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM.
 	
-Ferramentas utilizadas: geração de relatórios com iReport, banco de dados com PostgreSQL, desenvolvimento com Java Script e PHP utilizando o framework MIOLO.
+	- Ferramentas utilizadas: geração de relatórios com iReport, banco de dados com PostgreSQL, desenvolvimento com Java Script e PHP utilizando o framework MIOLO.
 
 * Fundação Diamantinense de Apoio ao Ensino, Pesquisa e Extensão - FUNDAEPE. (Agosto/2012 até Dezembro/2012) 
 Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 30h 
 
-Funções: Desenvolvimento de um sistema online de Gerenciamento Administrativo para o Instituto De Desenvolvimento do Norte e Nordeste de Minas Gerais- IDENE.
+	- Funções: Desenvolvimento de um sistema online de Gerenciamento Administrativo para o Instituto De Desenvolvimento do Norte e Nordeste de Minas Gerais- IDENE.
 
-Ferramentas utilizadas: Java, CSS, HTML, MySQL com Framework JSF e Hibernate, PrimeFaces.
+	- Ferramentas utilizadas: Java, CSS, HTML, MySQL com Framework JSF e Hibernate, PrimeFaces.
 
 ##Idiomas
 	
