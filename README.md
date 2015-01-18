@@ -34,6 +34,9 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK, UFVJM, Bra
 
 
 ##Experiência Profissional
+
+* HLH Acessoria e Consultoria. (Dezembro/2014 até o momento) 
+Vínculo: CLT, Enquadramento Funcional: Analista Desenvolvedor Java, Carga horária: 40h 
 	
 * Diretoria de Tecnologia da Informação da UFVJM. (Setembro/2012 até Agosto/2014) 
 Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 20h 
