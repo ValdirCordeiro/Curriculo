@@ -10,6 +10,8 @@ Currículo Lattes: http://lattes.cnpq.br/9890225800385852
 
 ##Formação Acadêmica
 
+* MBA em Projetos de Aplicações JAVA pelo Instituto de Gestão em Tecnologia da Informação (IGTI), Março de 2014 a Junho de 2016 (previsto).
+
 * 2014 - Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri -UFVJM.
 
 ##Formação Complementar
@@ -39,7 +41,7 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK, UFVJM, Bra
 Vínculo: CLT, Enquadramento Funcional: Analista Desenvolvedor Java, Carga horária: 40h 
 	- Funções: Manutenção e desenvolvimento de novas funcionalidades no Sistema Integrado de Gestão Pública.
 	
-	- Ferramentas utilizadas: Relatórios com iReport, banco de dados com PostgreSQL, MySQL, MSSQL Server, desenvolvimento utilizando Java com Swing, Hibernate, JSF, JSP.
+	- Ferramentas utilizadas: Relatórios com iReport, banco de dados com PostgreSQL, MySQL, MSSQL Server, desenvolvimento utilizando Java com Swing, JavaFX, Hibernate, JSF, JSP.
 
 * Diretoria de Tecnologia da Informação da UFVJM. (Setembro/2012 até Agosto/2014) 
 Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 20h 
