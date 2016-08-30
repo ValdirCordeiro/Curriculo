@@ -10,7 +10,9 @@ Currículo Lattes: http://lattes.cnpq.br/9890225800385852
 
 ##Formação Acadêmica
 
-* MBA em Projeto de Aplicações JAVA pelo Instituto de Gestão em Tecnologia da Informação (IGTI), Março de 2015 a Junho de 2016 (previsto).
+* Mestrado em Educação com foco em Educação e Tecnologias Aplicadas em Instituições Educacionais pela Universidade Federal dos Vales do Jequitinhonha e Mucuri -UFVJM, agosto de 2015 a agosto de 2017 (previsto).
+
+* MBA em Projeto de Aplicações JAVA pelo Instituto de Gestão em Tecnologia da Informação (IGTI), Março de 2015 a Junho de 2017 (previsto).
 
 * 2014 - Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri -UFVJM.
 
