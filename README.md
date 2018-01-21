@@ -47,21 +47,20 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK, UFVJM, Bra
 * HLH Acessoria e Consultoria. (Dezembro/2014 até o momento) 
 Vínculo: CLT, Enquadramento Funcional: Analista Desenvolvedor Java, Carga horária: 40h 
 	- Funções:
-		* Manutenção, suporte e desenvolvimento de novas funcionalidades no
+		*Manutenção, suporte e desenvolvimento de novas funcionalidades no
 		Sistema Integrado de Gestão Pública, responsável pelo módulo
 		tributário.
-		* Manutenção, suporte e desenvolvimento de novas funcionalidades no
+		*Manutenção, suporte e desenvolvimento de novas funcionalidades no
 		Sistema de Nota Fiscal Eletrônica.
-		* Importação de dados de sistemas anteriores.
-		* Suporte.
+		*Importação de dados de sistemas anteriores.
 		
 	- Ferramentas utilizadas:
-		* Relatórios com iReport.
-		* Desenvolvimento com o banco de dados com PostgreSQL.
-		* Importação de bancos MySQL, MSSQL Server, Firebird, DBF, Acces.
-		* Desenvolvimento utilizando Java SE com Swing, JPA/Hibernate (Sistema
+		*Relatórios com iReport.
+		*Desenvolvimento com o banco de dados com PostgreSQL.
+		*Importação de bancos MySQL, MSSQL Server, Firebird, DBF, Acces.
+		*Desenvolvimento utilizando Java SE com Swing, JPA/Hibernate (Sistema
 		Tributário - Desktop).
-		* Desenvolvimento utilizando Java EE, JSF/PrimeFaces, JPA/Eclipse Link,
+		*Desenvolvimento utilizando Java EE, JSF/PrimeFaces, JPA/Eclipse Link,
 		WildFly (Sistema NFe - Web).
 		
 * Diretoria de Tecnologia da Informação da UFVJM. (Setembro/2012 até Agosto/2014) 
@@ -80,15 +79,15 @@ Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 30h
 
 ##Idiomas
 	
-* Português: Fluente/Nativo.
-* Inglês: Compreende Bem, Fala Pouco, Escreve Pouco, Lê Bem.
+*Português: Fluente/Nativo.
+*Inglês: Compreende Bem, Fala Pouco, Escreve Pouco, Lê Bem.
 
 ##Informações Adicionais
 
 *Experiência em programação nas linguagens C/C++, C#, Java.
 *Noções de XML, HTML, XHTML, PHP, JavaScript.
 *Familiaridade com os ambientes NetBeans, Eclipse, MS Visual Studio.
-* Familiaridade na utilização de ferramentas Office.
+*Familiaridade na utilização de ferramentas Office.
 
 ##Publicações:
 
