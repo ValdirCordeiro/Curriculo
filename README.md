@@ -82,7 +82,7 @@ Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 30h
 ## Informações Adicionais
 
 * Experiência em programação na linguagem Java.
-* Noções de HTML, CSS, JavaScript e TypeScript, C#.
+* Noções de HTML, CSS, JavaScript, TypeScript, C#.
 * Familiaridade com os ambientes NetBeans, Eclipse, Visual Studio Code, Spring Tool Suite.
 * Familiaridade na utilização de ferramentas Office.
 
