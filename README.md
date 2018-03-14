@@ -19,6 +19,12 @@ Currículo Lattes: http://lattes.cnpq.br/9890225800385852
 
 ## Formação Complementar
 
+* 2018 - Curso Programando em TypeScript. (Carga horária: 8h). AlgaWorks.
+
+* 2018 - Curso Começando Com JavaScript. (Carga horária: 6h). AlgaWorks.
+
+* 2018 - Curso Web Design Responsivo com HTML5, CSS3 e BEM. (Carga horária: 60h). AlgaWorks.
+
 * 2018 - Curso de Fundamentos de JAVA. (Carga horária: 40h). Softblue.
 
 * 2014 – Curso de Fundamentos de C#. (Carga horária: 40h). Softblue.
