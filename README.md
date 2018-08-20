@@ -46,7 +46,15 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK, UFVJM, Bra
 
 ## Experiência Profissional
 
-* HLH Acessoria e Consultoria. (Dezembro/2014 até o momento) 
+* RJ Consultores (Abril/2018 até o momento) 
+Vínculo: CLT, Enquadramento Funcional: Analista de Sistemas Master, Carga horária: 40h		
+	- Ferramentas utilizadas:
+		* Relatórios com iReport.
+		* Jenkins
+		* Desenvolvimento com o banco de dados com Oracle.
+		* Desenvolvimento utilizando Java SE com Swing, JPA/Hibernate, Spring, ZK, JBoss.
+
+* HLH Acessoria e Consultoria. (Dezembro/2014 até Abril/2018) 
 Vínculo: CLT, Enquadramento Funcional: Analista Desenvolvedor Java, Carga horária: 40h 
 	- Funções:
 		* Manutenção, suporte e desenvolvimento de novas funcionalidades no Sistema Integrado de Gestão Pública, responsável pelo módulo	tributário.
