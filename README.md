@@ -19,7 +19,7 @@ Currículo Lattes: http://lattes.cnpq.br/9890225800385852
 
 ## Formação Complementar
 
-* 2019 - Curso de JAVA Avançado. (Carga horária: 60h). Softblue.
+* 2019 - Curso JAVA Avançado. (Carga horária: 60h). Softblue.
 
 * 2018 - Curso Programando em TypeScript. (Carga horária: 8h). AlgaWorks.
 
