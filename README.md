@@ -19,6 +19,8 @@ Currículo Lattes: http://lattes.cnpq.br/9890225800385852
 
 ## Formação Complementar
 
+* 2020 - Curso Git Essencial. (Carga horária: 8h). Softblue.
+
 * 2019 - Curso JAVA Avançado. (Carga horária: 60h). Softblue.
 
 * 2018 - Curso Programando em TypeScript. (Carga horária: 8h). AlgaWorks.
